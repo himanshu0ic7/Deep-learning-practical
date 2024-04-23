@@ -17,7 +17,7 @@ Experiment -5 (Plant_Village)(Using custom CNN models)
 Dataset name - plant_village.zip
 
 Experiment -6
-Dataset name - 
+Dataset name - Oxford-IIIT Pet dataset
 
 Experiment -7 (Simple RNN)
 Dataset name - IMDB Dataset.csv
